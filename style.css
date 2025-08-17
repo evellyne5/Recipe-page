@@ -30,6 +30,7 @@ main {
     display: flex;
     flex-direction: column;
     width: 60%;
+    margin: 100px 0px;
     background-color: white;
     padding: 45px;
     border-radius: 20px;
